@@ -87,6 +87,9 @@ Finally, it generates a completely unnecessary behavioral report explaining what
 No external Python packages are required.
 
 Make sure Python 3 is installed on your computer.
+and you run these following codes in ur cmd to make it work 
+pip install customtkinter 
+pip install pynput
 
 ```bash
 python --version
