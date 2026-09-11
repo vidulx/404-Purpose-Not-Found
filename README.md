@@ -2,11 +2,11 @@
 
 
 
-# [CURSOROLOGY] 🎯
+# CURSOROLOGY 🎯
 
 ## Basic Details
 
-### Team Name: Useless Duo
+### Team Name: 404:Purpose Not Found
 
 ### Team Members
 - Team Lead: Vidul P - JCET Lakkidi
