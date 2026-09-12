@@ -57,7 +57,8 @@ The system then converts these meaningless measurements into highly questionable
 
 Finally, it generates a completely unnecessary behavioral report explaining what the user's cursor supposedly reveals about them.
 
-## Technical Details
+## Video example
+   https://drive.google.com/file/d/1X8DcpBmyouq1-a9OBn-bkeij1AXj7g_7/view?usp=sharing
 
 ### Technologies/Components Used
 
